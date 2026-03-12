@@ -264,7 +264,7 @@ def main():
                         csv,
                         "resume_ranking_results.csv",
                         "text/csv"
-                        key='download-csv'
+                        key='download-csv',
                     )
                     
             except Exception as e:
