@@ -263,7 +263,7 @@ def main():
                         "Download Results as CSV",
                         csv,
                         "resume_ranking_results.csv",
-                        "text/csv",
+                        "text/csv"
                         key='download-csv'
                     )
                     
