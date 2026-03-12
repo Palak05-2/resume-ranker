@@ -2,7 +2,7 @@ import streamlit as st
 import zipfile
 import os
 import tempfile
-import shutill
+import shutil
 import io
 import json
 from PyPDF2 import PdfReader
